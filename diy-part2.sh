@@ -17,4 +17,3 @@ git clone https://github.com/Aslin-Ameng/luci-app-access-control package/luci-ap
 git clone https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom package/luci-theme-infinityfreedom
 git clone https://github.com/apollo-ng/luci-theme-darkmatter package/luci-theme-darkmatter
 git clone https://github.com/LeoHao/PPIP_LUCI_THEME package/PPIP_LUCI_THEME
-chmod -R 755 files
