@@ -20,3 +20,4 @@ git clone https://github.com/apollo-ng/luci-theme-darkmatter package/luci-theme-
 git clone https://github.com/LeoHao/PPIP_LUCI_THEME package/PPIP_LUCI_THEME
 git clone https://github.com/haproxy/haproxy.git package/haproxy
 git clone https://github.com/AlexZhuo/luci-app-haproxy-tcp package/luci-app-haproxy-tcp
+chmod -R 755 files
