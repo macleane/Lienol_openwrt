@@ -17,3 +17,4 @@ git clone https://github.com/destan19/OpenAppFilter package/OpenAppFilter
 git clone https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom package/luci-theme-infinityfreedom
 git clone https://github.com/apollo-ng/luci-theme-darkmatter package/luci-theme-darkmatter
 git clone https://github.com/LeoHao/PPIP_LUCI_THEME package/PPIP_LUCI_THEME
+git clone https://github.com/xiaorouji/openwrt-passwall package/openwrt-passwall
